@@ -1,9 +1,9 @@
 {
-	"id": "uview-ui",
-	"name": "uview-ui",
-	"displayName": "uView2.0重磅发布，利剑出鞘，一统江湖",
-	"version": "2.0.37",
-	"description": "uView UI已完美兼容nvue，全面的组件和便捷的工具会让您信手拈来，如鱼得水",
+	"id": "uview-ui-lite",
+	"name": "uview-ui-lite",
+	"displayName": "uView2.0精简魔改版",
+	"version": "0.0.1",
+	"description": "魔改，谨慎使用",
 	"keywords": [
         "uview",
         "uview",

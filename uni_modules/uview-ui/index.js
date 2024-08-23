@@ -8,10 +8,10 @@ import mixin from './libs/mixin/mixin.js'
 // 小程序特有的mixin
 import mpMixin from './libs/mixin/mpMixin.js'
 // 全局挂载引入http相关请求拦截插件
-import Request from './libs/luch-request'
+// import Request from './libs/luch-request'
 
 // 路由封装
-import route from './libs/util/route.js'
+// import route from './libs/util/route.js'
 // 颜色渐变相关,colorGradient-颜色渐变,hexToRgb-十六进制颜色转rgb颜色,rgbToHex-rgb转十六进制
 import colorGradient from './libs/function/colorGradient.js'
 
@@ -36,7 +36,7 @@ import color from './libs/config/color.js'
 import platform from './libs/function/platform'
 
 const $u = {
-    route,
+    // route,
     date: index.timeFormat, // 另名date
     colorGradient: colorGradient.colorGradient,
     hexToRgb: colorGradient.hexToRgb,
@@ -44,7 +44,7 @@ const $u = {
     colorToRgba: colorGradient.colorToRgba,
     test,
     type: ['primary', 'success', 'error', 'warning', 'info'],
-    http: new Request(),
+    // http: new Request(),
     config, // uView配置信息相关，比如版本号
     zIndex,
     debounce,

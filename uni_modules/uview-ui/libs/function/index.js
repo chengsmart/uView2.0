@@ -726,6 +726,5 @@ export default {
 	setProperty,
 	page,
 	pages,
-	getHistoryPage,
 	setConfig
 }

@@ -11,6 +11,14 @@
 [![release](https://img.shields.io/github/v/release/umicro/uView2.0?style=flat-square)](https://gitee.com/umicro/uView2.0/releases)
 [![license](https://img.shields.io/github/license/umicro/uView2.0?style=flat-square)](https://en.wikipedia.org/wiki/MIT_License)
 
+## 精简uView UI
+
+源自[uView2.0](https://github.com/umicro/uView2.0)，致敬作者
+
+为了压缩主包大小，魔改代码，很多API不在支持，慎重使用
+
+源自版本`2.0.37`
+
 ## 说明
 
 uView UI，是[uni-app](https://uniapp.dcloud.io/)全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
